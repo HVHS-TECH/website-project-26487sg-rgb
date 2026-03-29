@@ -11,5 +11,10 @@ main{
 h1{
 text-align: center;
 color : whitesmoke;
-font-family:;
+
 }
+
+.nav {
+  text-align: center;
+background-color: aquamarine;
+padding: 20px;}
