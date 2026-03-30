@@ -1,0 +1,20 @@
+body {
+    background-color:#1C7C54;
+  }
+ header{
+  background-color: rgb(38, 91, 236) 
+ }
+main{
+  background-color: #254F93;
+}
+
+h1{
+text-align: center;
+color : whitesmoke;
+
+}
+
+.nav {
+  text-align: center;
+background-color: aquamarine;
+padding: 20px;}
