@@ -17,4 +17,13 @@ color : whitesmoke;
 .nav {
   text-align: center;
 background-color: aquamarine;
-padding: 20px;}
+padding: 20px;
+}
+
+a{
+margin: 15px;
+}
+
+p {
+  background-color: white;
+}
