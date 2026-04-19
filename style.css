@@ -13,7 +13,10 @@ text-align: center;
 color : whitesmoke;
 
 }
-
+h2{
+  color: white;
+  text-align: left;
+}
 .nav {
   text-align: center;
 background-color: aquamarine;
@@ -25,5 +28,9 @@ margin: 15px;
 }
 
 p {
-  background-color: white;
+  color: white;
+}
+
+ul {
+  color: white;
 }
